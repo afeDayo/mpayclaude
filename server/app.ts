@@ -24,7 +24,3 @@ const start = async () => {
 };
 
 start();
-
-// afedayo_db_user;
-// glxS6uHiaoX6QHxx;
-// mongodb+srv://afedayo_db_user:glxS6uHiaoX6QHxx@cluster0.tnpjnpq.mongodb.net/?appName=Cluster0
